@@ -6,4 +6,4 @@ Web Page URL: https://natemuci.github.io/MyPortfolio/
 GitHub URL: https://github.com/natemuci/MyPortfolio
 
 ## ScreenShot
-![screenshot](./assets/Screen Shot 2022-09-25 at 7.59.51 PM.png)
+![screenshot](https://raw.githubusercontent.com/natemuci/MyPortfolio/main/assets/Screen%20Shot%202022-09-25%20at%207.59.51%20PM.png)
